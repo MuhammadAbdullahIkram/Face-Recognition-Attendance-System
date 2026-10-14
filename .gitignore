@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+models/*.onnx
+# Biometric / personal data - never push to GitHub
+data/*
+!data/.gitkeep
+dataset/*
+!dataset/.gitkeep
