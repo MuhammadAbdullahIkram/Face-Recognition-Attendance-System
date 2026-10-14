@@ -1,6 +1,6 @@
 # 🧑‍💼 Face Recognition & Attendance System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbdullahIkram/face-recognition-attendance-system/blob/main/Face_Recognition_Attendance.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbdullahIkram/Face-Recognition-Attendance-System/blob/main/Face_Recognition_Attendance.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
@@ -68,8 +68,8 @@ face-recognition-attendance-system/
 ### Option 2 - Run the Streamlit app locally
 
 ```bash
-git clone https://github.com/MuhammadAbdullahIkram/face-recognition-attendance-system.git
-cd face-recognition-attendance-system
+git clone https://github.com/MuhammadAbdullahIkram/Face-Recognition-Attendance-System.git
+cd Face-Recognition-Attendance-System
 
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |  Linux/Mac: source .venv/bin/activate
@@ -137,6 +137,7 @@ Face data is biometric data. Register only people who gave **consent**, and neve
 
 **Muhammad Abdullah** - Data Science graduate (BS Data Science, University of Okara)
 GitHub: [MuhammadAbdullahIkram](https://github.com/MuhammadAbdullahIkram)
+---
 LinkedIn: [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-394288242/)
 
 ## 🙏 Acknowledgements
